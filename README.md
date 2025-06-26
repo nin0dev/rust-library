@@ -8,8 +8,8 @@ Prérequis
 * Cargo (inclus avec Rust)
 
 ### Compilation et exécution
-```
 Cloner le repository
+```
 git clone [votre-repo-url]
 cd bibliotheque-rust
 ```
@@ -34,4 +34,4 @@ Insérer nom de l'auteur (puis appuyer sur Entrer)
 Insérer date de publication (puis appuyer sur Entrer)
 ```
 
-## Ce projet est réalisé dans le cadre d'un TP noté en Rust.
+Ce projet est réalisé dans le cadre d'un TP noté en Rust.
